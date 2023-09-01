@@ -65,9 +65,6 @@ This is my [Github-Repo].
 
 ---
 
-## Contact
-
-Feel free to get in touch! You can reach me by email at [k.honas2000@gmail.com](mailto:k.honas2000@gmail.com), or connect with me on [LinkedIn](https://www.linkedin.com/in/johndoe).
 
 
 
