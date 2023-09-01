@@ -31,7 +31,7 @@ I Built this website.
 
 Collaborated with a team to develop an e-commerce website using React and Redux. Integrated payment gateways and implemented responsive design.
 
-![E-commerce Store](ecommerce.jpg)
+<!-- ![E-commerce Store](ecommerce.jpg) -->
 
 
 ### Project 3: mobile game.
@@ -41,15 +41,6 @@ im currently developing a mobile game in unity.
 This is my [Github-Repo].
 
 ---
-
-## About Me
-
-### Education
-
-- **Bachelor of Science in Information Technology**
-  
-  National And Kapodistrian University Of Athens
-  Graduated: September 2023
 
 ### Skills
 
